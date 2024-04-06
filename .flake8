@@ -4,7 +4,7 @@ max-complexity = 10
 max-line-length = 120
 extend-ignore = W503
 disable-noqa = True
-application-import-names = benchmark_utils, tests
+application-import-names = tvaug, tests
 import-order-style = google
 
 per-file-ignores =
